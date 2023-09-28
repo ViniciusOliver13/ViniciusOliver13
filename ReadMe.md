@@ -5,12 +5,13 @@
 
 ---
 
-# 💻 Experiência em... 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOliver13&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=ViniciusOliver13&icon=9&color=11)](https://visitcount.itsvg.in)
+# 💻 Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="40" height="40"/>
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/ViniciusOliver13/blob/output/github-contribution-grid-snake.svg)
+          
+          
