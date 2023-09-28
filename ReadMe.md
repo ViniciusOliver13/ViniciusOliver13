@@ -1,5 +1,5 @@
 # 💫 About Me:
-        Atualmente estou fazendo o curso de B.T.I na UFERSA.<br>
+        Atualmente estou fazendo o curso de B.T.I na UFERSA.
         Procurando novos horizontes para os conhecimentos sobre tecnologia.
 
 # 💻 Tech Stack:
