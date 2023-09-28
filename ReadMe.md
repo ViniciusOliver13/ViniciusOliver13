@@ -1,5 +1,41 @@
 # 💫 About Me:
-Atualmente estou fazendo o curso de B.T.I na UFERSA.<br>Procurando novos horizontes para os conhecimentos sobre tecnologia.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <style>
+        /* Estilizando a seção "About Me" */
+        .about-me {
+            font-family: 'Cursive', cursive; /* Escolha uma fonte que você considere bonita */
+            font-size: 24px;
+            text-align: center;
+            animation: bounce 2s infinite; /* Adicionando uma pequena animação de salto */
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-30px);
+            }
+            60% {
+                transform: translateY(-15px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Seção "About Me" -->
+    <div class="about-me">
+        Atualmente estou fazendo o curso de B.T.I na UFERSA.<br>
+        Procurando novos horizontes para os conhecimentos sobre tecnologia.
+    </div>
+</body>
+</html>
+
 
 
 # 💻 Tech Stack:
