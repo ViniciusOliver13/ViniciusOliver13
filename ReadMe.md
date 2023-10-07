@@ -12,7 +12,7 @@
 # 💻 Tecnologias e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="50" height="50"/>   
 
-# Contatos:
+# 📲 Contatos:
 <div>
 <a href="https://instagram.com/vinicius_13l" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" width="140" target="_blank"></a>
 <a href="https://youtube.com/channel/UCIrMz5GBZWN8gPfhfsPlRbA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="120" target="_blank"></a>
