@@ -1,12 +1,14 @@
 # **_OLÁ! ME CHAMO VINÍCIUS!_** 
 ## Bem-Vindo devs👋
-### **_Atualmente estou fazendo o curso de B.T.I na UFERSA._**  
-
+### **_Atualmente estou fazendo o curso de B.T.I na UFERSA._**    
 ---
-### **_Procurando novos horizontes para os conhecimentos sobre tecnologia._**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Procurando+novos+horizontes...+;+para+os+conhecimentos...;sobre+tecnologia.)](https://git.io/typing-svg)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=ViniciusOliver13&icon=9&color=11)](https://visitcount.itsvg.in)
+
+
 # 💻 Tecnologias e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="50" height="50"/>   
 
