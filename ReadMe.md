@@ -1,5 +1,5 @@
 # **_OLÁ! ME CHAMO VINÍCIUS!_** 
-## Bem-Vindo devs👋
+## Bem-Vindos devs👋
 ### **_Atualmente estou fazendo o curso de B.T.I na UFERSA._**    
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Procurando+novos+horizontes...+;+para+os+conhecimentos...;sobre+tecnologia.)](https://git.io/typing-svg)
