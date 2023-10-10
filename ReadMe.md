@@ -1,7 +1,8 @@
-# **_OLÁ! ME CHAMO VINÍCIUS!_** 
-## Bem-Vindos devs👋
-### **_Atualmente estou fazendo o curso de B.T.I na UFERSA._**    
+![github-header-image (3)](https://github.com/ViniciusOliver13/ViniciusOliver13/assets/146228058/ff4c1ae3-0312-4ffd-b6ac-e9504809c00a)
+## **_ME CHAMO VINÍCIUS!_** 
+### **_Tenho 18 anos e estou fazendo o curso de B.T.I na UFERSA._**    
 ---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Procurando+novos+horizontes...+;+para+os+conhecimentos...;sobre+tecnologia.)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
