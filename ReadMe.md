@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&layout=compact&theme=midnight-purple" alt=ViniciusOliver13 ><p>
+<p><img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&layout=compact&theme=midnight-purple" alt=ViniciusOliver13 ><p>
   
 [![](https://visitcount.itsvg.in/api?id=ViniciusOliver13&icon=9&color=11)](https://visitcount.itsvg.in)
 
