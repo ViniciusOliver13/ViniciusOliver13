@@ -1,11 +1,17 @@
 ![github-header-image (4)](https://github.com/ViniciusOliver13/ViniciusOliver13/assets/146228058/05c5a858-10e4-4e9d-a019-f5a472b89d3f)
-## **_ME CHAMO VINÍCIUS!_** 
-### **_Tenho 18 anos e estou fazendo o curso de B.T.I na UFERSA._**    
+## **_Olá, me chamo Vinícius!_** 
+## ✨  Sobre mim
+- Tenho 20 anos
+- Graduando em Tecnologia da Informação (B.T.I)
+ 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Procurando+novos+horizontes...+;+para+os+conhecimentos...;sobre+tecnologia.)](https://git.io/typing-svg)
+# 🚀 Minhas Skills
 
-# 📊 GitHub Stats:
+[![My Skills](https://skillicons.dev/icons?i=java,python,c&theme=light)](https://skillicons.dev)
+
+
+# ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <p><img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&layout=compact&theme=midnight-purple" alt=ViniciusOliver13 ><p>
   
