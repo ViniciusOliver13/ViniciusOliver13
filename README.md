@@ -1,6 +1,6 @@
 ![github-header-image (4)](https://github.com/ViniciusOliver13/ViniciusOliver13/assets/146228058/05c5a858-10e4-4e9d-a019-f5a472b89d3f)
 ## **_Olá, me chamo Vinícius!_** 
-## ✨  Sobre mim
+# ✨  Sobre mim
 - Tenho 20 anos
 - Graduando em Tecnologia da Informação (B.T.I)
 - Fã da Formula 1
@@ -10,16 +10,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c&theme=light)](https://skillicons.dev)
 
-
 # ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <p><img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&layout=compact&theme=midnight-purple" alt=ViniciusOliver13 ><p>
-  
-[![](https://visitcount.itsvg.in/api?id=ViniciusOliver13&icon=9&color=11)](https://visitcount.itsvg.in)
-
-# 💻 Tecnologias e Ferramentas  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50" height="50"/>     
 
 # 📲 Contatos:
 <div>
