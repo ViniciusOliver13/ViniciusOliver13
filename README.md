@@ -3,7 +3,7 @@
 ## ✨  Sobre mim
 - Tenho 20 anos
 - Graduando em Tecnologia da Informação (B.T.I)
- 
+- Fã da Formula 1
 ---
 
 # 🚀 Minhas Skills
