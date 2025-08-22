@@ -1,0 +1,122 @@
+{
+    "editor.fontSize": 19,
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "java": true,
+        "c": true,
+        "cpp": true
+    },
+    "debug.onTaskErrors": "showErrors",
+    "monokaiPro.fileIconsMonochrome": true,
+    "vsicons.projectDetection.autoReload": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.aiCodeActions": {},
+    "python.languageServer": "Pylance",
+    "editor.cursorBlinking": "phase",
+    "diffEditor.codeLens": true,
+    "editor.parameterHints.enabled": false,
+    "C_Cpp.inactiveRegionForegroundColor": "#000000",
+    "C_Cpp.inactiveRegionBackgroundColor": "#000000",
+    "files.autoSave": "afterDelay",
+    "python.createEnvironment.trigger": "off",
+    "launch": {
+        "configurations": []
+    },
+    "[html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        }
+    },
+    "[django-html]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        }
+    },
+    "files.associations": {
+        "*.js": "javascript",
+        "*.jsx": "javascriptreact",
+        "*.xml": "html",
+        "*.svg": "html",
+        "*.html": "html",
+        "django-html": "html", // batisteo.vscode-django
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/base_templates/**/*.html": "django-html",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html", // batisteo.vscode-django
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "python.testing.unittestEnabled": false, // ms-python.python
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [], // -x to bail
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--errors-only"
+    ],
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "java.configuration.runtimes": [
+        
+    ],
+    "vscode-pets.petSize": "small",
+    "vscode-pets.petColor": "magical",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.ppm": "vscode-ppm-view.ppm"
+    },
+    "ppm-pgm-viewer-for-vscode.imagepreview.autoScalingMode": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.largeFileOptimizations": false,
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "E589164F-1E60-436C-A98B-78D6F1FABB78"
+        }
+    ],
+    "mssql.autoDisableNonTSqlLanguageService": true,
+    "database-client.autoSync": true,
+    "explorer.fileNesting.patterns": {
+        "*.ts": "${capture}.js",
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+        "*.jsx": "${capture}.js",
+        "*.tsx": "${capture}.ts",
+        "tsconfig.json": "tsconfig.*.json",
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
+        "*.sqlite": "${capture}.${extname}-*",
+        "*.db": "${capture}.${extname}-*",
+        "*.sqlite3": "${capture}.${extname}-*",
+        "*.db3": "${capture}.${extname}-*",
+        "*.sdb": "${capture}.${extname}-*",
+        "*.s3db": "${capture}.${extname}-*"
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorCustomizations": {},
+    "editor.fontLigatures": false,
+     "terminal.integrated.fontFamily": "FiraCode Nerd Font Propo",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "vscode-icons",
+}
