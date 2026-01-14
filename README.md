@@ -1,25 +1,62 @@
-![github-header-image (4)](https://github.com/ViniciusOliver13/ViniciusOliver13/assets/146228058/05c5a858-10e4-4e9d-a019-f5a472b89d3f)
-## **_Olá, me chamo Vinícius!_** 
-# ✨  Sobre mim
-- Tenho 20 anos
-- Graduando em Tecnologia da Informação (B.T.I)
-- Fã da Formula 1
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+![fot](https://github.com/user-attachments/assets/b2bbb79b-4cf3-439e-9093-a21ac918b11c)
+<div align="center">
+
 ---
 
-# 🚀 Minhas Skills
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A.Vinicius+%7C+BTI+na+UFERSA;Backend+Developer;Python+%7C+Django+%7C+AWS&font=Fira+Code&center=true&width=500&height=50&color=33ccff&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c&theme=light)](https://skillicons.dev)
-
-# ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver13&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<p><img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver13&layout=compact&theme=midnight-purple" alt=ViniciusOliver13 ><p>
-
-# 📲 Contatos:
-<div>
-<a href="https://instagram.com/vinicius_13l" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" width="140" target="_blank"></a>
-<a href="https://youtube.com/channel/UCIrMz5GBZWN8gPfhfsPlRbA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="120" target="_blank"></a>
-<a href = "mailto:nvidianew3201@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" target="_blank"></a>
 </div>
+
+---
+
+<div align="left">
+  <h3>👩🏻‍💻 Sobre mim ...</h3>
+  
+  🎓 Graduando em Tecnologia da Informação (B.T.I) na **UFERSA**
+  <br/>
+  🚀 Desenvolvedor Backend
+  <br/>
+  🎂 Tenho **21 anos**
+  <br/>
+  🏎️ Fã de Fórmula 1
+</div>
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+
+<div align="left">
+  <img src="https://i.icoziv.workers.dev/icons?i=python,c,java,django,aws,sqlite,git,linux," alt="Skills" />
+</div>
+
+---
+
+### 🌐 Comunicação
+
+<div align="left">
+  <a href="https://instagram.com/vinniciu_oliver" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vinnicius.oliveiralima@gmail.com" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=gmail" height="50" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/antonio-vin%C3%ADcius-oliveria-lima-7838ba37a/" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
 
 <picture>
   <source
@@ -35,3 +72,9 @@
     src="https://raw.githubusercontent.com/ViniciusOliver13/ViniciusOliver13/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
