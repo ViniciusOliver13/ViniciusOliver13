@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </div>
 
 ![fot](https://github.com/user-attachments/assets/b2bbb79b-4cf3-439e-9093-a21ac918b11c)
@@ -74,7 +71,5 @@
 </picture>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
